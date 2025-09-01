@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?  i=ai,anaconda,cpp,git,latex,linkedin,linux,matlab,
-      neovim,py,pytorch,sklearn," />
+      neovim,py,pytorch,sklearn" />
   </a>
 </p>
 <!--
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,anaconda,cpp,git,latex,linkedin,linux,matlab,neovim,py,pytorch,sklearn)](https://skillicons.dev)
