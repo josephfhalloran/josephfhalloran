@@ -1,6 +1,11 @@
 ## Hi there 👋
-[Website](josephhalloran.com)(Work in Progress)
+My name is Joseph Halloran and I am a recent graduate with a Master's in Scientific Computation and Applied Mathematics.
 
+[Website](http://www.josephhalloran.com)(WIP just a redirect)
+
+- 🔭 I’m currently working on writing a Neural Network from scratch with math and c++.
+- 🌱 I’m currently learning CUDA
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joseph-halloran/)
 <!--
 **josephfhalloran/josephfhalloran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
