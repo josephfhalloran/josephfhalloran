@@ -1,6 +1,11 @@
 ## Hi there 👋
-josephhalloran.com/
-
+[Website](josephhalloran.com)(Work in Progress)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?  i=ai,anaconda,cpp,git,latex,linkedin,linux,matlab,
+      neovim,py,pytorch,sklearn," />
+  </a>
+</p>
 <!--
 **josephfhalloran/josephfhalloran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
