@@ -11,7 +11,7 @@ I enjoy tackling challenging problems, writing clean code, and finding new ways 
 
 [![My Skills](https://skillicons.dev/icons?i=ai,anaconda,cpp,latex,linux,matlab,neovim,py,pytorch,sklearn)](https://skillicons.dev)
 
-[Website](http://www.josephhalloran.com) WIP (just a redirect)
+[Website](http://www.josephhalloran.com) WIP 
 
 ---
 
