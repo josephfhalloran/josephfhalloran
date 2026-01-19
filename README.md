@@ -15,8 +15,6 @@ I enjoy tackling challenging problems, writing clean code, and finding new ways 
 
 ---
 
-- 🔭 I’m currently working on **audio related Neural Networks**   
-- 🌱 I’m currently learning more about audio-related math and other related topics
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joseph-halloran/)
   
 
