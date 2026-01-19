@@ -19,13 +19,6 @@ I enjoy tackling challenging problems, writing clean code, and finding new ways 
 - 🌱 I’m currently learning more about audio-related math and other related topics
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joseph-halloran/)
   
----
-
-## Fun facts  
-
-- Competitive gamer turned programmer 🎮➡️💻  
-- Tried optimizing with shared memory in CUDA… ended up slower on my PC (it was my PC's fault I swear) 😅 
-- I’ve coded on both **Windows**🪟😬  and **Linux**  🐧🚀  
 
 
 <!--
